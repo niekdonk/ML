@@ -3,11 +3,13 @@ In dit project wordt met LSTM een voorspelling gedaan.
 ## Getting Started
 Met de instructies hieronder kan je het project runnen en verder uitbreiden.
 ### Benodigheden
+Hieronder alle tools die nodig zijn en gebruikt zijn tijdens het maken van het project.
 ```
 - PyCharm of een soortgelijke editor.
 - Een browser waar Jupyter kan worden uitgevoerd.
 ```
 ### Installeren
+Hieronder stap voor stap wat je moet doen om het project te kunnen uitvoeren in zijn huidige staat.
 ```
 Download of fork het project.
 ```
